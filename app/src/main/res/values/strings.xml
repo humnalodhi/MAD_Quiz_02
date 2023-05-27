@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MAD_Quiz_02</string>
+        <string-array name="image_items">
+            <item>Burger</item>
+            <item>Sandwich</item>
+            <item>Pizza</item>
+            <item>Chicken Crackers</item>
+        </string-array>
+
+</resources>
